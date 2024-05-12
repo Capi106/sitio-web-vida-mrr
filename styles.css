@@ -18,6 +18,7 @@ section {
   min-height: 100vh;
 }
 
+
 /* Menu styles */
 .menu {
   display: grid;
@@ -104,6 +105,17 @@ section {
 .menu .contact-tile .front {
   background-image: url(img/work-03.png);
 }
+
+
+/* About styles */
+.about {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
 
 
 
