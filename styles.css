@@ -17,3 +17,14 @@ section {
   min-height: 100vh;
 }
 
+.menu {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: repeat(2, 200px);
+  justify-content: center;
+  align-content: center;
+  grid-template-areas: 
+  "about about projects projects"
+  "about about posts    contact";
+  background-color: rgb(195, 35, 88);
+}
