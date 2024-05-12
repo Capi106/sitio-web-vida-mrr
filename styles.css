@@ -149,7 +149,10 @@ section {
 }
 
 .tile-2 img {
-  width: 100px;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .tile-3 img, 
