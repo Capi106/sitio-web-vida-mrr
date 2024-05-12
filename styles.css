@@ -64,7 +64,7 @@ section {
   padding: 20px;
   color: #fff;
   background-color: #000;
-  transition: all .3s ease;
+  transition: margin-top .3s ease;
 }
 
 .menu .tile .back {
@@ -76,6 +76,10 @@ section {
   font-size: 28px;
   color: #fff;
   background-color: #222;
+}
+
+.menu .tile:hover .front {
+  margin-top: -100%;
 }
 
 
