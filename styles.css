@@ -148,6 +148,15 @@ section {
   grid-column: 3/4;
 }
 
+.tile h2 {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.tile img {
+  margin-top: 20px;
+}
+
 .tile-1 img,
 .tile-5 img {
   width: 200px;
