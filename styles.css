@@ -116,6 +116,11 @@ section {
   padding: 20px;
 }
 
+.about .tile {
+  padding: 40px;
+  border-radius: 10px;
+}
+
 
 
 
