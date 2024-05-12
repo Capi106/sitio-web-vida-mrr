@@ -82,6 +82,10 @@ section {
   margin-top: -100%;
 }
 
+.menu .projects-tile:hover .front {
+  margin-top: -50%;
+}
+
 
 
 
