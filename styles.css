@@ -35,6 +35,22 @@ section {
   cursor: pointer;
 }
 
+.about-tile {
+  grid-area: about;
+}
+
+.projects-tile {
+  grid-area: projects;
+}
+
+.posts-tile {
+  grid-area: posts;
+}
+
+.contact-tile {
+  grid-area: contact;
+}
+
 .menu .tile a {
   text-decoration: none;
   text-transform: uppercase;
