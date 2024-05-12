@@ -159,19 +159,23 @@ section {
 
 .tile-1 img,
 .tile-5 img {
-  width: 200px;
+  /* width: 200px; */
+  width: 50%;
 }
 
 .tile-2 img {
-  width: 400px;
-  height: 400px;
+  /* width: 400px;
+  height: 400px; */
+  width: 25vw;
+  height: 25vw;
   border-radius: 50%;
   object-fit: cover;
 }
 
 .tile-3 img, 
 .tile-4 img {
-  width: 300px;
+  /* width: 300px; */
+  width: 60%;
 }
 
 
