@@ -28,3 +28,10 @@ section {
   "about about posts    contact";
   background-color: rgb(195, 35, 88);
 }
+
+.menu .tile {
+  height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+}
+
