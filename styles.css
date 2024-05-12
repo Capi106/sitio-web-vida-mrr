@@ -35,3 +35,8 @@ section {
   cursor: pointer;
 }
 
+.menu .tile a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
