@@ -56,25 +56,24 @@ section {
   text-transform: uppercase;
 }
 
-.menu .tile .front {
-  display: grid;
-  justify-items: center;
-  align-items: center;
-  height: 100%;
-  padding: 20px;
-  color: #fff;
-  background-color: #000;
-  transition: margin-top .3s ease;
-}
-
+.menu .tile .front,
 .menu .tile .back {
   display: grid;
   justify-items: center;
   align-items: center;
   height: 100%;
+  color: #fff;
+}
+
+.menu .tile .front {
+  padding: 20px;
+  background-color: #000;
+  transition: margin-top .3s ease;
+}
+
+.menu .tile .back {
   font-weight: bold;
   font-size: 28px;
-  color: #fff;
   background-color: #222;
 }
 
