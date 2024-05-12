@@ -40,3 +40,14 @@ section {
   text-transform: uppercase;
 }
 
+.menu .tile .front {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+  color: #fff;
+  background-color: #000;
+  transition: all .3s ease;
+}
+
