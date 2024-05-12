@@ -121,7 +121,19 @@ section {
   border-radius: 10px;
 }
 
+.tile-1 img,
+.tile-5 img {
+  width: 200px;
+}
 
+.tile-2 img {
+  width: 100px;
+}
+
+.tile-3 img, 
+.tile-4 img {
+  width: 300px;
+}
 
 
 
