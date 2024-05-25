@@ -459,6 +459,30 @@ section {
   background-color: #fff;
 }
 
+.posts .post-1 {
+  background-image: url(img/work-05.png);
+}
+
+.posts .post-2 {
+  background-image: url(img/work-02.png);
+}
+
+.posts .post-3 {
+  background-image: url(img/work-09.png);
+}
+
+.posts .post-4 {
+  background-image: url(img/work-15.png);
+}
+
+.posts .post-5 {
+  background-image: url(img/work-12.png);
+}
+
+.posts .post-6 {
+  background-image: url(img/work-16.png);
+}
+
 
 
 
