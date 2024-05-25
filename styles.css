@@ -442,6 +442,11 @@ section {
   overflow: hidden;
 }
 
+.posts .post a {
+  color: #fff;
+  text-decoration: none;
+}
+
 
 
 
