@@ -312,6 +312,18 @@ section {
 
 .main-photo { 
   grid-area: main-photo; 
+  padding: 20px;
+  color: #fff;
+  font-size: 20px;
+  background-image: url(img/work-17.png);
+}
+
+.main-photo h2,
+.main-photo div {
+  display: inline-block;
+  padding: 20px;
+  background-color: #000;
+  border-radius: 5px;
 }
 
 .photo-2 { 
