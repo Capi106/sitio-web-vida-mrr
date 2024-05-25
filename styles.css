@@ -305,6 +305,16 @@ section {
   border-radius: 5px;
 }
 
+.projects .tile:not(.main-photo) {
+  transition: transform .1s ease-in, opacity .1s ease-in;
+  opacity: .8;
+}
+
+.projects .tile:hover:not(.main-photo) {
+  transform: scale(1.01);
+  opacity: 1;
+}
+
 .projects .tile a {
   display: grid;
   height: 100%;
