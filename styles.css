@@ -447,6 +447,18 @@ section {
   text-decoration: none;
 }
 
+.posts .post .title {
+  padding: 10px;
+  color: #fff;
+  background-color: #000000b3;
+  transition: color .3s ease, background-color .3s ease;
+}
+
+.posts .post .title:hover {
+  color: #000000b3;
+  background-color: #fff;
+}
+
 
 
 
