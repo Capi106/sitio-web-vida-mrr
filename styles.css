@@ -1,4 +1,4 @@
-/* Reset styles */
+/* ********** Reset styles ********** */
 html {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
@@ -20,7 +20,7 @@ section {
 
 
 
-/* Menu styles */
+/* ********** Menu styles ********** */
 
 /* Versión 1 */
 /* .menu {
@@ -205,7 +205,7 @@ section {
 
 
 
-/* About styles */
+/* ********** About styles ********** */
 .about {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
