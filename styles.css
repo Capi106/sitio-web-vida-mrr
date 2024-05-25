@@ -522,3 +522,12 @@ section {
   background-color: #67ca50;
 }
 
+.contact .social-networks {
+  justify-self: center;
+  padding: 10px 0;
+}
+
+.contact .social-networks a {
+  color: #fff;
+}
+
