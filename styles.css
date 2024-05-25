@@ -494,6 +494,27 @@ section {
   align-content: center;
 }
 
+.contact form {
+  display: grid;
+  grid-template: auto / auto;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  color: #fff;
+}
+
+.contact h2 {
+  text-transform: uppercase;
+}
+
+.contact form input,
+.contact form textarea {
+  width: 100%;
+  padding: 20px 10px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+}
 
 
 
