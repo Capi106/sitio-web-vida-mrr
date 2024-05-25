@@ -327,67 +327,83 @@ section {
 }
 
 .photo-2 { 
-  grid-area: photo-2; 
+  grid-area: photo-2;
+  background-image: url(img/work-01.png); 
 }
 
 .photo-3 { 
   grid-area: photo-3; 
+  background-image: url(img/work-02.png); 
 }
 
 .photo-4 { 
   grid-area: photo-4; 
+  background-image: url(img/work-03.png);
 }
 
 .photo-5 { 
   grid-area: photo-5; 
+  background-image: url(img/work-04.png);
 }
 
 .photo-6 { 
   grid-area: photo-6; 
+  background-image: url(img/work-05.png);
 }
 
 .photo-7 { 
   grid-area: photo-7; 
+  background-image: url(img/work-06.png);
 }
 
 .photo-8 { 
   grid-area: photo-8; 
+  background-image: url(img/work-07.png);
 }
 
 .photo-9 { 
-  grid-area: photo-9; 
+  grid-area: photo-9;
+  background-image: url(img/work-08.png); 
 }
 
 .photo-10 { 
   grid-area: photo-10; 
+  background-image: url(img/work-09.png);
 }
 
 .photo-11 { 
   grid-area: photo-11; 
+  background-image: url(img/work-10.png);
 }
 
 .photo-12 { 
   grid-area: photo-12; 
+  background-image: url(img/work-11.png);
 }
 
 .photo-13 { 
   grid-area: photo-13; 
+  background-image: url(img/work-12.png);
 }
 
 .photo-14 { 
   grid-area: photo-14; 
+  background-image: url(img/work-13.png);
 }
 
 .photo-15 { 
-  grid-area: photo-15; 
+  grid-area: photo-15;
+  background-image: url(img/work-14.png); 
 }
 
 .photo-16 { 
   grid-area: photo-16; 
+  background-image: url(img/work-15.png);
 }
 
 .photo-17 { 
   grid-area: photo-17; 
+  background-image: url(img/work-16.png);
 }
 
 
