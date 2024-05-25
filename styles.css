@@ -305,6 +305,11 @@ section {
   border-radius: 5px;
 }
 
+.projects .tile a {
+  display: grid;
+  height: 100%;
+}
+
 .main-photo { 
   grid-area: main-photo; 
 }
