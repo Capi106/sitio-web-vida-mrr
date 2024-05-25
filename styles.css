@@ -294,6 +294,15 @@ section {
     "main-photo main-photo main-photo photo-10 photo-10 photo-11 photo-11 photo-11 photo-12 photo-12"
     "main-photo main-photo main-photo photo-13 photo-14 photo-11 photo-11 photo-11 photo-12 photo-12"
     "main-photo main-photo main-photo photo-15 photo-16 photo-11 photo-11 photo-11 photo-12 photo-12";
+    padding: 10px;
+    gap: 10px;
+}
+
+.projects .tile {
+  background-color: #ccc;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
 }
 
 .main-photo { 
