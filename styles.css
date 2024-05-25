@@ -428,8 +428,18 @@ section {
   justify-content: center;
   align-content: center;
   gap: 10px;
-  padding: 10px;
+  /* padding: 10px; */
   background-color: #42baff;
+}
+
+.posts .post {
+  display: grid;
+  align-items: end;
+  background-color: #fff;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 
