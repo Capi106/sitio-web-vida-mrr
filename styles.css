@@ -296,6 +296,7 @@ section {
     "main-photo main-photo main-photo photo-15 photo-16 photo-11 photo-11 photo-11 photo-12 photo-12";
     padding: 10px;
     gap: 10px;
+    background-color: #000;
 }
 
 .projects .tile {
