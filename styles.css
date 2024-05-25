@@ -516,5 +516,9 @@ section {
   border: none;
 }
 
-
+.contact form input[type="submit"] {
+  font-weight: bold;
+  font-size: 28px;
+  background-color: #67ca50;
+}
 
